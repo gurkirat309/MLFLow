@@ -24,3 +24,6 @@ def plot_graph(data, title="Graph Title", xlabel="X-axis", ylabel="Y-axis"):
     plt.ylabel(ylabel)
     plt.grid(True)
     plt.show()  
+
+
+def control_apsl(np,nsf)->integer
